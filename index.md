@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Battle Cats Mod Tool
+### A Free modding tool to edit stages and cat units in the greatest mobile game ever. The Battle Cats.
 
 You can use the [editor on GitHub](https://github.com/TheBattleCats/BTMT_Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
